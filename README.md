@@ -1,2 +1,2 @@
 # StockpricePrediction
-Predicting the stock pricing using  RNN &amp; LSTM algorithms.
+Predicting the stock pricing using  RNN & LSTM algorithms.
